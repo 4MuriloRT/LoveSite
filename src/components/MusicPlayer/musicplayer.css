@@ -1,0 +1,13 @@
+.music-player {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  
+  .music-player iframe {
+    border-radius: 8px;
+  }
+  

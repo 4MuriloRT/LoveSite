@@ -1,0 +1,19 @@
+.love-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+.love-message h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 16px;
+    padding-top: 10px;
+}
+
+@media (min-width: 425px) {
+    .love-message {
+        font-size: 20px;
+    }
+}
