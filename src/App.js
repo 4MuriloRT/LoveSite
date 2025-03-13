@@ -1,8 +1,8 @@
-import LoveSite from "./pages/LoveSite/LoveSite";
+import RoutesApp from "./routes";
 function App() {
   return (
     <div className="App">
-      <LoveSite/>
+      <RoutesApp />
     </div>
   );
 }
