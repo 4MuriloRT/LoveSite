@@ -8,3 +8,15 @@
     justify-content: center;
     position: relative;
 }
+
+.love-site hr{
+    width: 80%;
+    margin-top: 10px;
+}
+
+.love-site .title{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 16px;
+    padding-top: 10px;
+}

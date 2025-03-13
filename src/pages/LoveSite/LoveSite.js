@@ -9,8 +9,10 @@ function LoveSite(){
     <div className="love-site">
       <MusicPlayer />
       <PhotoCarousel />
-      <LoveMessage />
+      <h2 className="title">❤️Eu te amo há:</h2>
       <TimeCounter />
+      <hr/>
+      <LoveMessage />
     </div>
   );
 }

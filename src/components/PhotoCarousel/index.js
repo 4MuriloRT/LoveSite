@@ -13,7 +13,7 @@ const images = [photo1, photo2, photo3, photo4, photo5];
 
 const PhotoCarousel = () => {
   const settings = {
-    dots: true,
+    dots: false,
     infinite: true,
     speed: 500,
     slidesToShow: 1,

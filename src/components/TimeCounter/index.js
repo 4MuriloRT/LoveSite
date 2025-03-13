@@ -23,7 +23,7 @@ const TimeCounter = () => {
     return () => clearInterval(interval);
   }, []);
 
-  return <p className="time-counter">Eu te amo há: {timeTogether}</p>;
+  return <p className="time-counter">{timeTogether}</p>;
 };
 
 export default TimeCounter;
